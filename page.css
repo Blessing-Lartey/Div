@@ -18,7 +18,7 @@ html, body{
     background-color: rgb(176, 140, 140);
     width: 80%;
     text-align: center;
-    padding-top: 22%;
+    margin: auto;
 }
 
 footer{
