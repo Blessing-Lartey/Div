@@ -2,9 +2,10 @@
     margin: 0%;
 }
 
-body{
+html, body{
     display: flex;
-    height: 600px;
+    height: 100%;
+    width: 100%;
 }
 
 .side-bar{
@@ -21,10 +22,11 @@ body{
 }
 
 footer{
-    margin-top: 47%;
+    bottom: 0%;
     background: rgb(51, 29, 29);
-    height: 40px;
+    height: 7%;
     width: 100%;
     position: absolute;
     color: aliceblue;
+    padding-left: 10%;
 }
