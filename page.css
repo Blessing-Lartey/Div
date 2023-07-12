@@ -12,13 +12,14 @@ html, body{
     background-color: rgb(51, 29, 29);
     color: aliceblue;
     width: 20%;
+    height: 100%;
 }
 
 .main-body{
     background-color: rgb(176, 140, 140);
-    width: 80%;
+    height: 100%;
+    width: 100%;
     text-align: center;
-    margin: auto;
 }
 
 footer{
